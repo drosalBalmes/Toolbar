@@ -7,14 +7,9 @@
     android:background="@color/light_blue"
     tools:context=".MainActivity">
 
-    <androidx.appcompat.widget.Toolbar
+    <include
         android:id="@+id/toolbar1"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_weight="1"
-        android:background="?attr/colorPrimary"
-        android:minHeight="?attr/actionBarSize"
-        android:theme="?attr/actionBarTheme" />
+        layout="@layout/toolbar" />
 
     <EditText
         android:id="@+id/editText"

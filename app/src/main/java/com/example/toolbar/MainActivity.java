@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
         toolbar1 = findViewById(R.id.toolbar1);
         editText = findViewById(R.id.editText);
         setSupportActionBar(toolbar1);
+        getSupportActionBar().setDisplayShowTitleEnabled(false);
     }
 
     @Override

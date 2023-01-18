@@ -5,6 +5,9 @@
       <map>
         <entry key="..\:/Users/david/IdeaProjects/ToolBar/app/src/main/res/layout/activity_main.xml" value="0.5" />
         <entry key="..\:/Users/david/IdeaProjects/ToolBar/app/src/main/res/layout/activity_new.xml" value="0.1" />
+        <entry key="..\:/Users/david/IdeaProjects/ToolBar/app/src/main/res/layout/cardtoolbar.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/david/IdeaProjects/ToolBar/app/src/main/res/layout/cardview.xml" value="0.1" />
+        <entry key="..\:/Users/david/IdeaProjects/ToolBar/app/src/main/res/layout/toolbar.xml" value="0.14130434782608695" />
         <entry key="..\:/Users/david/IdeaProjects/ToolBar/app/src/main/res/menu/menu1.xml" value="0.19427083333333334" />
       </map>
     </option>
@@ -17,5 +20,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
   </component>
 </project>
